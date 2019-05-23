@@ -42,7 +42,7 @@
 		<dependency>
 		    <groupId>vip.52itstyle</groupId>
 		    <artifactId>alipay-trade-sdk</artifactId>
-		    <version>1.0.0</version>
+		    <version>3.3.0</version>
 		</dependency>
 		<!-- 官方SDK  https://mvnrepository.com/artifact/com.alipay.sdk/alipay-sdk-java -->
 		<dependency>
